@@ -1,7 +1,7 @@
-let myAge = x;
 const x = 12;
+let myAge = x;
 
-let frendAge = y;
 const y = 10;
+let frendAge = y;
 
 console.log(x+y)

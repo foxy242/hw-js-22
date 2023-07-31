@@ -1,7 +1,7 @@
 const yearOfBirth = 2006;
 console.log(yearOfBirth);
 
-const number = +38098765421;
+const number = 1234567890;
 console.log(number);
 
 const nameOfTheMonth = 'meow';
@@ -11,18 +11,18 @@ const foodExpires = 2024;
 console.log(foodExpires);
 
 const teamFootball = "psj";
-console.log(footballTeam);
+console.log(teamFootball);
 
-let username = x;
+let username = "fox";
 console.log(username);
 
 let teamVolleyball = "karasuno";
-console.log(footballTeam);
+console.log(teamVolleyball);
 
 let teamBasketball = "cleveland";
-console.log(basketballTeam);
+console.log(teamBasketball);
 
-let userProfile = Gosha.Cikilyov;
+let userProfile = "Gosha.Cikilyov";
 console.log(userProfile);
 
 let age = 20;
